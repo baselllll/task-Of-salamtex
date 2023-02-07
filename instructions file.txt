@@ -1,0 +1,15 @@
+to search about key first name open that link:
+    http://localhost/BomEgypt/home_page.php
+
+then search any name wanted it 
+
+
+---------------------
+JsonHandleScript.php 
+
+Exist class that handel all function that do within json 
+
+1 - uploadJson
+2 - addItemInJson	
+3- updateJson	
+4- SearchOnJson
